@@ -155,7 +155,7 @@ section {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url('/background-home.jpg') no-repeat center center/cover;
+    background: url('./background-home.jpg') no-repeat center center/cover;
     position: relative;
     background-attachment: fixed;
 }
@@ -460,7 +460,7 @@ footer {
 /* About Section Background */
 .about-section {
     position: relative;
-    background: url('/background-home.jpg') no-repeat center center/cover;
+    background: url('./background-home.jpg') no-repeat center center/cover;
     color: white; /* Ensures text stays visible */
         background-attachment: fixed;
 
@@ -469,7 +469,7 @@ footer {
 /* Portfolio Section Background */
 .portfolio-section {
     position: relative;
-    background: url('/background-home.jpg') no-repeat center center/cover;
+    background: url('./background-home.jpg') no-repeat center center/cover;
     background-attachment: fixed;
 
 }
@@ -477,7 +477,7 @@ footer {
 /* Contact Section Background */
 .contact-section {
     position: relative;
-    background:linear-gradient(to right, #16213E, transparent),url('/background-home.jpg') no-repeat center center/cover;
+    background:linear-gradient(to right, #16213E, transparent),url('./background-home.jpg') no-repeat center center/cover;
     background-attachment: fixed;
 }
 
